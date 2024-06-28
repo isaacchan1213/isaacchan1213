@@ -6,5 +6,5 @@
 - Always interested in learning more 🤓
 - Pronouns: he/him
 - ⚡ Fun fact: I love food 🤤
-- 📫 How to reach me: isaacchan1213@gmail.com
+- 📫 How to reach me: isaacch@bu.edu
 

@@ -43,5 +43,3 @@ Here’s some of my favorite technologies I frequently use:
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat-square&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/-Groq-00B2A9?style=flat-square&logo=groq&logoColor=white)
-
-Let’s connect and collaborate!

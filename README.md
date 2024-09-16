@@ -19,7 +19,7 @@ Welcome to my GitHub page! Here’s a bit about me:
 
 ### 🛠️ My Tech Stack
 
-Here’s some of my favorite technologies I work with:
+Here’s some of my favorite technologies I frequently use:
 
 #### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)

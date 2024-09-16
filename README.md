@@ -1,6 +1,6 @@
 # Hello, I'm Isaac! 👋
 
-Welcome to my corner of the internet! Here’s a bit about me:
+Welcome to my GitHub page! Here’s a bit about me:
 
 - 🎓 **Student at Boston University** 🐶  
   Currently diving into the fascinating world of **Computer Science and Data Science** 👨🏻‍💻

@@ -15,8 +15,7 @@ Welcome to my GitHub page! Here’s a bit about me:
   I’m a huge food enthusiast—whether it’s trying new recipes or finding the best local eats, I’m in! 🤤
 
 - 📬 **Reach Out**  
-  Feel free to contact me at [isaacch@bu.edu](mailto:isaacch@bu.edu)
-  Or connect with me on [LinkedIn](https://www.linkedin.com/in/isaacchan1213)
+  Feel free to contact me at [isaacch@bu.edu](mailto:isaacch@bu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/isaacchan1213)
 
 ### 🛠️ My Tech Stack
 

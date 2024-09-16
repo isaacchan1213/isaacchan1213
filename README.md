@@ -19,6 +19,6 @@ Welcome to my corner of the internet! Here’s a bit about me:
 
 **Pronouns**: he/him
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacchan1213&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacchan1213&layout=compact&theme=dark)
 
 Let’s connect and collaborate!

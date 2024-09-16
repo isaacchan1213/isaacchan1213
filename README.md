@@ -16,6 +16,8 @@ Welcome to my GitHub page! Here’s a bit about me:
 
 - 📬 **Reach Out**  
   Feel free to contact me at [isaacch@bu.edu](mailto:isaacch@bu.edu)
+  Or
+  Connect with me on [LinkedIn](https://www.linkedin.com/in/isaacchan1213)
 
 ### 🛠️ My Tech Stack
 

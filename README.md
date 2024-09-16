@@ -1,6 +1,4 @@
-# Hello, I'm Isaac!
-
-![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# Hello [Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif), I'm Isaac!
 
 Welcome to my GitHub page! Here’s a bit about me:
 

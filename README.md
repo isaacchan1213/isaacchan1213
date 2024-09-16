@@ -1,4 +1,4 @@
-### Hello, I'm Isaac! 👋
+# Hello, I'm Isaac! 👋
 
 Welcome to my corner of the internet! Here’s a bit about me:
 
@@ -17,6 +17,29 @@ Welcome to my corner of the internet! Here’s a bit about me:
 - 📬 **Reach Out**  
   Feel free to contact me at [isaacch@bu.edu](mailto:isaacch@bu.edu)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacchan1213&layout=compact&theme=dark)
+### 🛠️ My Tech Stack
+
+Here’s some of my favorite technologies I work with:
+
+#### Programming Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+#### Web Technologies & Databases
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+#### Frameworks & Libraries
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-00B2A9?style=flat-square&logo=groq&logoColor=white)
 
 Let’s connect and collaborate!

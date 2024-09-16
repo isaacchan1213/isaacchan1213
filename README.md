@@ -6,7 +6,7 @@ Welcome to my GitHub page! Here’s a bit about me:
   Currently diving into the fascinating world of **Computer Science and Data Science** 👨🏻‍💻
 
 - 🤝 **Open to Collaboration!**  
-  I love working on projects with others and exploring new ideas.
+  I love working on projects with others and exploring new ideas 😊
 
 - 📚 **Always Curious**  
   I'm passionate about learning and constantly seeking new knowledge 🤓
